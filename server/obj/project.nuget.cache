@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4I1ed3nRXc2Q4wQjRMSySt0QhLNLZWD+c18991nxXtiWgwLyhK/76KkRvYqa4VduOpN5p/I0GAUBJtIT3zwAWg==",
+  "success": true,
+  "projectFilePath": "/home/jim/Documents/Projects/reactjs-csharp-crud/server/server.csproj",
+  "expectedPackageFiles": [
+    "/home/jim/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
